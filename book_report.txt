@@ -1,0 +1,9 @@
+
++---------------+-----------------------------------------------------------------+---------------------+---------------+
+| BOOK ID       | BOOK NAME                                                       | AUTHOR NAME         | QUANTITY      |
++---------------+-----------------------------------------------------------------+---------------------+---------------+
+| 25012009      | Embedded C Programming and the Microchip PIC                    | Richard Barnett     | 49            |
+| 25012012      | Real-Time Concepts for Embedded Systems                         | Qing Li             | 50            |
+| 25012013      | Practical UML Statecharts in C/C++                              | Miro Samek          | 40            |
+| 25012014      | Embedded Systems: Introduction to ARM Cortex-M Microcontrollers | Jonathan W. Valvano | 40            |
++---------------+-----------------------------------------------------------------+---------------------+---------------+
